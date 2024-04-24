@@ -15,4 +15,3 @@ new_set = my_set.copy()
 my_set.clear()
 print(new_set)
 print(my_set)
-
