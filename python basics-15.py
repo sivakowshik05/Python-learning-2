@@ -1,5 +1,5 @@
 my_tuple = (1, 2, 3, 4, 5)
-print(my_tuple(1))
+print(my_tuple)
 print(5 in my_tuple) 
 new_tuple1 = my_tuple[1:2]
 new_tuple2 = my_tuple[1:4]
