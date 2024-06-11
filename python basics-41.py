@@ -13,5 +13,5 @@ if ((n := len(a)) > 10):  # here n := equals to the len(a)
 while ((n := len(a)) > 1):
     print(n)
     a = a[:-1]
-    
+
 print(a)  
