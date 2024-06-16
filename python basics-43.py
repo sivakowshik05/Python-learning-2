@@ -12,7 +12,7 @@ def count():
     total += 1
     return total
 
-print(count)
+print(count) # result will be 1 if we run the code
 
 total = 0
 
@@ -23,7 +23,7 @@ def count():
 
 count()
 count()
-print(count)
+print(count) # result will be 3 if we run the code
 
 # or
 
