@@ -1,3 +1,4 @@
+#classmethod and staticmethod
 class PlayerCharacter:
     membership = True
     def __init__(self, name, age):
